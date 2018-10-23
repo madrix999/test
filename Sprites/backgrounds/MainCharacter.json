@@ -1,0 +1,140 @@
+{
+    "layers": [
+        {
+            "name": "Head",
+            "tiles": [
+                {
+                    "tile": -1,
+                    "y": 0,
+                    "rot": 0,
+                    "index": 0,
+                    "flipX": false,
+                    "x": 0
+                },
+                {
+                    "tile": -1,
+                    "y": 1,
+                    "rot": 0,
+                    "index": 1,
+                    "flipX": false,
+                    "x": 0
+                }
+            ],
+            "number": 0
+        },
+        {
+            "name": "Right Leg",
+            "tiles": [
+                {
+                    "tile": -1,
+                    "y": 0,
+                    "rot": 0,
+                    "index": 0,
+                    "flipX": false,
+                    "x": 0
+                },
+                {
+                    "tile": -1,
+                    "y": 1,
+                    "rot": 0,
+                    "index": 1,
+                    "flipX": false,
+                    "x": 0
+                }
+            ],
+            "number": 1
+        },
+        {
+            "name": "Left Leg",
+            "tiles": [
+                {
+                    "tile": -1,
+                    "y": 0,
+                    "rot": 0,
+                    "index": 0,
+                    "flipX": false,
+                    "x": 0
+                },
+                {
+                    "tile": -1,
+                    "y": 1,
+                    "rot": 0,
+                    "index": 1,
+                    "flipX": false,
+                    "x": 0
+                }
+            ],
+            "number": 2
+        },
+        {
+            "name": "Left Arm",
+            "tiles": [
+                {
+                    "tile": -1,
+                    "y": 0,
+                    "rot": 0,
+                    "index": 0,
+                    "flipX": false,
+                    "x": 0
+                },
+                {
+                    "tile": -1,
+                    "y": 1,
+                    "rot": 0,
+                    "index": 1,
+                    "flipX": false,
+                    "x": 0
+                }
+            ],
+            "number": 3
+        },
+        {
+            "name": "Right Arm",
+            "tiles": [
+                {
+                    "tile": -1,
+                    "y": 0,
+                    "rot": 0,
+                    "index": 0,
+                    "flipX": false,
+                    "x": 0
+                },
+                {
+                    "tile": -1,
+                    "y": 1,
+                    "rot": 0,
+                    "index": 1,
+                    "flipX": false,
+                    "x": 0
+                }
+            ],
+            "number": 4
+        },
+        {
+            "name": "Body",
+            "tiles": [
+                {
+                    "tile": -1,
+                    "y": 0,
+                    "rot": 0,
+                    "index": 0,
+                    "flipX": false,
+                    "x": 0
+                },
+                {
+                    "tile": -1,
+                    "y": 1,
+                    "rot": 0,
+                    "index": 1,
+                    "flipX": false,
+                    "x": 0
+                }
+            ],
+            "number": 5
+        }
+    ],
+    "tilewidth": 32,
+    "tileswide": 1,
+    "tileheight": 32,
+    "tileshigh": 2
+}
